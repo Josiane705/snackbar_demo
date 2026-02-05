@@ -1,16 +1,22 @@
-# snackbar_demo
+Flutter SnackBar Demo
+A.Description
 
-A new Flutter project.
+A simple application to demonstrate the usage of the "SnackBar"  widget for displaying the message "Message Deleted" along with an option to undo the delete action.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+B. How to Run
 
-A few resources to get you started if this is your first Flutter project:
+1.  Ensure you have the Flutter SDK installed.
+2.  Clone this repository to your local machine.
+3.  Navigate to the project directory.
+4.  Run flutter run 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+C.Three Attributes Demonstrated
+
+In this application, the following three attributes have been used to customize the SnackBar:
+
+
+1.backgroundColor: This attribute has been used to change the color to red to signify the delete action.
+2.behavior: This attribute has been used to lift the SnackBar slightly up from the edge of the screen.
+3.action: This attribute has been used to add the option to undo the delete action by displaying the text "UNDO".
