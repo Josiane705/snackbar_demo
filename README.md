@@ -23,4 +23,4 @@ In this application, the following three attributes have been used to customize 
 
   D. Screenshot
 
-  !(Mobile View)(SnapBar.PNG)
+  !(Mobile View)("https://github.com/Josiane705/snackbar_demo/blob/ce2960ee3d3d24b82ec4678d87bed471bf599438/SnapBar.PNG")
